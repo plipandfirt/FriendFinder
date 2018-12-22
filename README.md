@@ -56,7 +56,7 @@ Now that we have a backend to our applications, we use Heroku for hosting. Pleas
 
 Please see [Heroku’s Account Verification Information](https://devcenter.heroku.com/articles/account-verification) for more details.
 
-See the [Supplemental Heroku Deployment Guide](../../03-Supplemental/HerokuGuide.md) for in-detail deployment instructions.
+See the [Supplemental Heroku Deployment Guide](../../03-Supplemental/HerokuGuide.md) for in-detail deployment instructions. This link does not work.
 
 - - -
 
