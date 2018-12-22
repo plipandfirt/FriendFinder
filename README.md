@@ -7,7 +7,7 @@ In this activity, we built a compatibility-based "FriendFinder" application -- b
 We used Express to handle routing and deployed our apps to Heroku so other users can fill it out.
 
 
-* Check out [this demo version of the site](https://dashboard.heroku.com/apps/desolate-fortress-47420). Note - heroku deploy doesn't work. The Slack directions to not match wath was done in class - and using the Slack information didn't work.
+* Check out [this demo version of the site](https://dashboard.heroku.com/apps/desolate-fortress-47420). Note - heroku deploy doesn't work. The Slack directions do not match wath was done in class - and using the Slack information didn't work.
 
 
 ### Instructions
