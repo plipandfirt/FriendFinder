@@ -113,5 +113,5 @@ var friendsArray = [
     }
 ];
 
-// make array accessbiel to other files
-module.exports = friendsArray;
+// make array accessible to other files
+module.exports = friends;

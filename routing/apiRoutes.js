@@ -1,6 +1,6 @@
 // load data
 
-var friendsData = require("../data/friendsData");
+var friendsData = require("../data/friends");
 
 //honestly, I don't understand what requests go in what files. I know putting all of them in every file isn't correct. Right now I have app.xxx requests in 3 files...very frustrating.  :`(
 
