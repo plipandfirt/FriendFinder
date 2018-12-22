@@ -2,41 +2,17 @@
 
 ### Overview
 
-In this activity, you'll build a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+In this activity, we built a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
-You will use Express to handle routing. Make sure you deploy your app to Heroku so other users can fill it out.
+We used Express to handle routing and deployed our apps to Heroku so other users can fill it out.
 
 
-### Before You Begin
+* Check out [this demo version of the site](https://dashboard.heroku.com/apps/desolate-fortress-47420). .
 
-* Check out [this demo version of the site](https://friend-finder-fsf.herokuapp.com/). Use this as a model for how we expect your assignment look and operate.
-
-* Create a folder called `FriendFinder`. Inside the folder, organize your directories so it matches the following:
-
-  ```
-  FriendFinder
-    - .gitignore
-    - app
-      - data
-        - friends.js
-      - public
-        - home.html
-        - survey.html
-      - routing
-        - apiRoutes.js
-        - htmlRoutes.js
-    - node_modules
-    - package.json
-    - server.js
-  ```
-
-### Submission on BCS
-
-* Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
 
 ### Instructions
 
-1. Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
+1. The survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 
 2. Your `server.js` file should require the basic npm packages we've used in class: `express` and `path`.
 
@@ -54,7 +30,7 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 
 ```json
 {
-  "name":"Ahmed",
+  "name"  :"Ahmed",
   "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
   "scores":[
       5,

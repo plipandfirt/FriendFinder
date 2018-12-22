@@ -1,24 +1,115 @@
 var friendsArray = [
     {
-        friendName: "Joey",        
+        "name": "Joey",
+        "photo": "",
+        "score": [
+            5,
+            1,
+            4,
+            4,
+            5,
+            1,
+            2,
+            5,
+            4,
+            1
+        ]                
     },
     {
-        friendName: "Rachel",        
+        "name": "Rachel",
+        "photo": "",
+        "score": [
+            4,
+            2,
+            5,
+            1,
+            3,
+            2,
+            2,
+            1,
+            3,
+            2
+        ]        
     },
     {
-        friendName: "Monica",        
+        "name": "Monica",
+        "photo": "",
+        "score": [
+            5,
+            2,
+            2,
+            2,
+            4,
+            1,
+            3,
+            2,
+            5,
+            5
+        ]        
     },
     {
-        friendName: "Chandler",        
+        "name": "Chandler",
+        "photo": "",
+        "score": [
+            3,
+            3,
+            4,
+            2,
+            2,
+            1,
+            3,
+            2,
+            2,
+            3
+        ]        
     },
     {
-        friendName: "Ross",        
+        "name": "Ross",
+        "photo": "",
+        "score": [
+            4,
+            3,
+            4,
+            1,
+            5,
+            2,
+            5,
+            3,
+            1,
+            4
+        ]        
     },
     {
-        friendName: "Phoebe",        
+        "name": "Phoebe",
+        "photo": "",
+        "score": [
+            4,
+            4,
+            2,
+            3,
+            2,
+            2,
+            3,
+            2,
+            4,
+            5
+        ]        
     },
     {
-        friendName: "Ugly Naked Guy",        
+        "name": "Ugly Naked Guy",
+        "photo": "",
+        "score": [
+            3,
+            2,
+            3,
+            3,
+            1,
+            2,
+            3,
+            2,
+            4,
+            3
+        ]        
     }
 ];
 

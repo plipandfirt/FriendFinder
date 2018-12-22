@@ -2,6 +2,8 @@
 var express = require("express");
 var path = require("path");
 
+var friends = require("./app/data/friends");
+
 // tell node we are creating an "express" server
 var app = express();
 
@@ -16,16 +18,23 @@ app.use(express.json());
 require("./routing/apiRoutes")(app);
 require("./routing/htmlRoutes")(app);
 
+// Routes
+// =============================================================
+
+// // Basic route that sends the user first to the AJAX Page
+app.get("/", function(req, res) {
+    res.sendFile(path.join(__dirname, "app/public/home.html"));
+  });
+
+  app.get("/home", function(req, res) {
+    res.sendFile(path.join(__dirname, "app/public/home.html"));
+  });
+
+  app.get("/survey", function(req, res) {
+    res.sendFile(path.join(__dirname, "app/public/survey.html"));
+  });
 // Listener - starts the server
 app.listen(PORT, function() {
     console.log("App is listening on PORT: " + PORT);
 });
 
-// Routes
-// =============================================================
-
-// // Basic route that sends the user first to the AJAX Page
-// app.get("/", function(req, res) {
-//     // res.send("Welcome to the Star Wars Page!")
-//     res.sendFile(path.join(__dirname, "view.html"));
-//   });
