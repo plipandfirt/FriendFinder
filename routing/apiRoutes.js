@@ -19,4 +19,4 @@ app.post("/api/friends", function (req, res) {
     tableData.length = [];
 });
 
-module.exports = function (app) {
+module.exports = function (app){}
