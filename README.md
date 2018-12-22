@@ -7,7 +7,7 @@ In this activity, we built a compatibility-based "FriendFinder" application -- b
 We used Express to handle routing and deployed our apps to Heroku so other users can fill it out.
 
 
-* Check out [this demo version of the site](https://dashboard.heroku.com/apps/desolate-fortress-47420). Note - heroku deploy doesn't work. The Slack directions do not match wath was done in class - and using the Slack information didn't work.
+* Don't bother to check out `this demo version of the site`. Rather, see `href=heroku-img`. The Slack directions do not match what worked in class - and using the Slack information didn't work. It just creates new deploys, and none link to my github project even though I'm in that directory in Bash. I deleted 2 when I hit 5, 1 working starwars and 4 non-working friend finder wanna be files. Spent a lot of time trying to get this to work...
 
 
 ### Instructions
