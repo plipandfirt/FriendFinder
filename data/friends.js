@@ -1,7 +1,7 @@
 var friendsArray = [
     {
         "name": "Joey",
-        "photo": "",
+        "photo": "https://imgix.bustle.com/rehost/2016/9/13/448e1dea-fcbc-4f59-acab-25946e3e47ac.jpg",
         "score": [
             5,
             1,
@@ -17,7 +17,7 @@ var friendsArray = [
     },
     {
         "name": "Rachel",
-        "photo": "",
+        "photo": "https://img.sharetv.com/shows/characters/large/friends.rachel_green.jpg",
         "score": [
             4,
             2,
@@ -33,7 +33,7 @@ var friendsArray = [
     },
     {
         "name": "Monica",
-        "photo": "",
+        "photo": "https://www.seenshot.in/wp-content/uploads/2018/04/Monica-from-friends.jpg",
         "score": [
             5,
             2,
@@ -49,7 +49,7 @@ var friendsArray = [
     },
     {
         "name": "Chandler",
-        "photo": "",
+        "photo": "http://www4.pictures.zimbio.com/mp/F8zhICS6anFl.jpg",
         "score": [
             3,
             3,
@@ -65,7 +65,7 @@ var friendsArray = [
     },
     {
         "name": "Ross",
-        "photo": "",
+        "photo": "https://pbs.twimg.com/media/DcotFzIU0AEaRSe.jpg",
         "score": [
             4,
             3,
@@ -81,7 +81,7 @@ var friendsArray = [
     },
     {
         "name": "Phoebe",
-        "photo": "",
+        "photo": "http://images2.fanpop.com/images/photos/3800000/Phoebe-TOW-Phoebe-s-Rats-phoebe-buffay-3821598-768-576.jpg",
         "score": [
             4,
             4,
@@ -97,7 +97,7 @@ var friendsArray = [
     },
     {
         "name": "Ugly Naked Guy",
-        "photo": "",
+        "photo": "http://dailyentertainmentnews.com/wpgo/wp-content/uploads/2016/06/jon-haugen-ugly-naked-guy-4.jpg",
         "score": [
             3,
             2,
